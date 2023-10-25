@@ -476,6 +476,8 @@
 
 ## 4. 용어정리
 
+<img src="./img/용어정리.png">
+
 # 스토리 보드
 
 # Github Blog URL

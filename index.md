@@ -71,7 +71,7 @@
 
 **필살기 게이지** UI는 화면 우측 하단에 위치하여 필살기 사용의 가능 여부를 확인할 수 있도록 나타내준다.
 
-https://youtu.be/n--Z3P-mDhA?t=243
+[구상중인 게임과 유사한 게임의 플레이 영상](https://youtu.be/n--Z3P-mDhA?t=243)
 
 현재 구상 중인 게임과 가장 유사한 게임인 젤다 무쌍의 플레이 영상으로 계속해서 몰려오는 적들을 잡으며 클리어 목표를 달성하는 방식이다.
 
@@ -485,4 +485,4 @@ https://youtu.be/n--Z3P-mDhA?t=243
 
 # Github Blog URL
 
-https://syugan02.github.io/
+<https://syugan02.github.io/>

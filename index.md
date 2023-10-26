@@ -480,6 +480,8 @@
 
 # 스토리 보드
 
+<img src="./img/스토리보드.png">
+
 # Github Blog URL
 
 https://syugan02.github.io/

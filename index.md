@@ -1,7 +1,7 @@
 # 레전드 오브 슬래셔 (오단해)
 
-<img src="./img/포스터 디자인 해상도 인게임 최종안.jpg">
-<img src="./img/타이틀 화면.png">
+<img src="./img/포스터 디자인 해상도 인게임 최종안.jpg" width = 700 heigth = 700>
+<img src="./img/타이틀 화면.png" width = 720 heigth = 540>
 
 
 
@@ -81,7 +81,7 @@
 # **프로젝트 명 : 레전드 오브 슬래셔**
 ***
 # **포스터**
-<img src="./img/포스터 디자인 해상도 인게임 최종안.jpg">
+<img src="./img/포스터 디자인 해상도 인게임 최종안.jpg" width = 500 heigth = 500>
 
 ***
 <br><br>
@@ -143,7 +143,7 @@
 
 # 타이틀 화면
 
-<img src="./img/타이틀 화면.png">
+<img src="./img/타이틀 화면.png" width = 720 heigth = 540>
 
 <br><br>
 
